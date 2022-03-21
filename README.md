@@ -1,1 +1,8 @@
-# terraform-aws-vpc
+Module
+
+### Usage:
+```
+module "vpc" {
+    source = "
+}
+```
