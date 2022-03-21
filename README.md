@@ -3,6 +3,7 @@ Module
 ### Usage:
 ```
 module "vpc" {
-    source = "
+  source  = "Gulara7/vpc/aws"
+  
 }
 ```
