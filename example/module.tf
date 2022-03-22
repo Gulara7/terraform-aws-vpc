@@ -1,6 +1,6 @@
 
 module "vpc" {
-  source  = "Gulara7/vpc/aws"
+  source  = "../"
   cidr_block = "10.0.0.0/16"
   tags = { 
       Name = "Dev"
